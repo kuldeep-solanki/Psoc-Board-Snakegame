@@ -1,0 +1,6 @@
+C:\Users\kuldeep singh solank\Documents\PSoC Creator\snake_game\project_embedded.cydsn\project_embedded.cyprj|9b49dd75-dfe5-4aca-9bfa-8fd19f5f201d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|14f20fa4-befd-4bd6-808a-9c22c4a50f9b
+C:\Users\kuldeep singh solank\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|4e21b1c2-3c02-413d-b5e2-1d31feeb3903
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|1113426a-9591-45c9-97f5-8b48f725c2c8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|bd0b7cae-df40-48c8-b02d-f409fd313379
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|e1c289fb-c839-470a-bd96-939a0cab566f
